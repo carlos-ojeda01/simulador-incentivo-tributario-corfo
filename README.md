@@ -21,5 +21,5 @@ Si deseas ejecutar este simulador en tu máquina local, sigue estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-   cd "Ley I+D Corfo"
+   git clone https://github.com/carlos-ojeda01/simulador-incentivo-tributario-corfo.git
+   cd simulador-incentivo-tributario-corfo
